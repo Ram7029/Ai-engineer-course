@@ -39,7 +39,7 @@ message_system={
     "content": system_prompt
 }
 
-text="Hello My name is Pratyush. Yesterday I broke up with my girlfriend sheetal I have an iphone which is not working at all. My address is delhi. My email is abc@gmail.com. My contact number is 82134"
+text="Hello My name is Ram. Yesterday I broke up with my girlfriend sheetal I have an iphone which is not working at all. My address is delhi. My email is abc@gmail.com. My contact number is 82134"
 prompt=f"""
 This is a customer ticket. Please extract the personal information from this.
 {text}
